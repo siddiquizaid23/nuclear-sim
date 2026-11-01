@@ -1,0 +1,3 @@
+/home/zaid23/nuclear-sim/build/CMakeFiles/nuclear_sim.dir
+/home/zaid23/nuclear-sim/build/CMakeFiles/edit_cache.dir
+/home/zaid23/nuclear-sim/build/CMakeFiles/rebuild_cache.dir
