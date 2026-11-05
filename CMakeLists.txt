@@ -7,4 +7,5 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(nuclear_sim src/main.cpp 
     src/reactor_physics.cpp)
+    target_compile_options(nuclear_sim PRIVATE -Wall -Wextra)
 target_include_directories(nuclear_sim PRIVATE include)
